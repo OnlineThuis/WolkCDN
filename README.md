@@ -1,4 +1,4 @@
-# OnlineThuis link Project 
+# WolkCDN and OnlineThuis links 
 
 ### CDN SERVER
 
