@@ -10,7 +10,7 @@ let op, dit is niet uw server, het kan zijn dat de server uitgeschakeld kan word
 
 note, this is not your server, it may be that the server can be shut down
 
-how do I make my own CDN server
+how can i make my own CDN server
 hoe maak ik een eigen CDN server
 
 ```
