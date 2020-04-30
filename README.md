@@ -2,13 +2,19 @@
 
 ### CDN SERVER
 
-you are using WolkCDN what is WolkCDN (Wolk Content delivery network) is a server where content is sent to another page for example Onlinethuis.nl 
+you are using WolkCDN what is WolkCDN (Wolk Content delivery network) is a server where content is sent to another page for example imgs or code for Onlinethuis.nl 
 
+je gebruikt WolkCDN wat is WolkCDN (Wolk Content delivery network) is een server waar content naar een andere pagina wordt gestuurd bijvoorbeeld imgs of code voor Onlinethuis.nl
 
+let op, dit is niet uw server, het kan zijn dat de server uitgeschakeld kan worden  (om welke reden dan ook)
 
+note, this is not your server, it may be that the server can be shut down
+
+how do I make my own CDN server
+hoe maak ik een eigen CDN server
 
 ```
-Give examples
+www.wolkcdn.com/make
 ```
 
 ### install - Installeren
@@ -20,64 +26,6 @@ to install the OT-CSS-UI you need to put this code in your php file -
 <?php include "link.php"; ?>
 ```
 
-And repeat
+And test
+En test
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
