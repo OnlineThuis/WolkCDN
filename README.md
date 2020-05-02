@@ -14,10 +14,14 @@ how can i make my own CDN server
 hoe maak ik een eigen CDN server
 
 ```
-www.wolkcdn.com/make
+step1 huur of koop een webserver step 2 koop een domeinnaam steps 3 upload je design zoals CSS' JS' SVG' PNG, XML,
+steps 4 maak een link aan in je PHP file 
+```
+```
+<link rel="stylesheet" type="text/css" href="https://jouwdomeinnaam.nl/path/naar/je/files">
 ```
 
-### install - Installeren
+### OT-CSS-UI install - Installeren
 
 to install the OT-CSS-UI you need to put this code in your php file - 
 (NL) om de OT-CSS-UI te installeren, moet je deze code in je php-bestand plaatsen
