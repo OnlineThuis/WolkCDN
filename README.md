@@ -32,6 +32,7 @@ to install the OT-CSS-UI you need to put this code in your php file -
 ```
 <?php include "link.php"; ?>
 ```
+klik op rechtermuisknop (inspecteren) en ga naar network toe
 
 And test
 En test
