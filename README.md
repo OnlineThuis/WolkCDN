@@ -18,9 +18,12 @@ step1 huur of koop een webserver step 2 koop een domeinnaam steps 3 upload je de
 steps 4 maak een link aan in je PHP file 
 ```
 ```
-<link rel="stylesheet" type="text/css" href="https://jouwdomeinnaam.nl/path/naar/je/files">
+<link rel="stylesheet" type="text/css" href="https://jouwdomeinnaam.nl/path/naar/je/files.css">
 ```
+```
+    <script src="https://jouwdomeinnaam.nl/path/naar/je/files.js"></script>
 
+```
 ### OT-CSS-UI install - Installeren
 
 to install the OT-CSS-UI you need to put this code in your php file - 
