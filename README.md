@@ -22,7 +22,6 @@ steps 4 maak een link aan in je PHP file
 ```
 ```
     <script src="https://jouwdomeinnaam.nl/path/naar/je/files.js"></script>
-
 ```
 ### OT-CSS-UI install - Installeren
 
@@ -32,8 +31,8 @@ to install the OT-CSS-UI you need to put this code in your php file -
 ```
 <?php include "link.php"; ?>
 ```
-klik op rechtermuisknop (inspecteren) en ga naar network toe
+klik op rechtermuisknop (inspecteren) en ga naar network toe en refresh web browser
 
 And test
-En test
+
 
